@@ -1,0 +1,7 @@
+section {
+    background: repeat-y url(https://www.w3schools.com/css/gradient_bg_vertical.png);
+}
+
+article {
+    background: no-repeat url(https://picsum.photos/300/200) right;
+}
